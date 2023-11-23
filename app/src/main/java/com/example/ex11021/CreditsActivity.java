@@ -34,4 +34,5 @@ public class CreditsActivity extends AppCompatActivity {
 
         return super.onOptionsItemSelected(item);
     }
+
 }
